@@ -13,7 +13,6 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 - This is not a open source project. 
  
-
 <b>DEVS:</b>
 - <a href=https://t.me/Rizwan_Richu_2006</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
